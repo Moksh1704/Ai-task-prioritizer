@@ -28,12 +28,20 @@ During development, a fallback stub is used to ensure reliability and smooth tes
 ##  Project Structure
 
 ai-task-prioritizer/
+
+
 │
+
 ├── ai_utils.py # AI logic (stub / replaceable with real API)
+
 ├── main.py # CLI-based execution
+
 ├── app.py # Streamlit demo UI
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 ---
