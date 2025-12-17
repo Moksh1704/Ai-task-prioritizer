@@ -62,14 +62,13 @@ Prepare for coding test -> High
 ##  Running the Project
 
 ### Run in Terminal
+
 ```bash```
 
 python main.py
 
-###Run Streamlit Demo
+### Run Streamlit Demo
 ```bash```
-
-```Copy code```
 
 streamlit run app.py
 
@@ -89,7 +88,7 @@ This approach follows standard backend development practices.
 
 ---
 
-###Future Improvements
+## Future Improvements
 
 Replace stub with live AI API integration
 
