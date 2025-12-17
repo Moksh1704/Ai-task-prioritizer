@@ -5,7 +5,7 @@ The project demonstrates how traditional rule-based logic can be replaced with a
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project takes user-defined tasks and classifies them into **High, Medium, or Low priority**.
 
@@ -14,7 +14,7 @@ During development, a fallback stub is used to ensure reliability and smooth tes
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 - Backend development using Python
 - Modular code structure (separation of concerns)
@@ -25,7 +25,7 @@ During development, a fallback stub is used to ensure reliability and smooth tes
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ai-task-prioritizer/
 │
@@ -35,9 +35,6 @@ ai-task-prioritizer/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-yaml
-Copy code
 
 ---
 
@@ -51,14 +48,14 @@ Copy code
 
 ---
 
-## 🧪 Example Output
+##  Example Output
 
 Finish DBMS assignment -> High
+
 Buy groceries -> Low
+
 Prepare for coding test -> High
 
-yaml
-Copy code
 
 ---
 
@@ -66,10 +63,14 @@ Copy code
 
 ### Run in Terminal
 ```bash```
+
 python main.py
-Run Streamlit Demo
+
+###Run Streamlit Demo
 ```bash```
+
 ```Copy code```
+
 streamlit run app.py
 
 ---
@@ -97,8 +98,3 @@ Improve prompt engineering for better prioritization
 Add database support for persistent tasks
 
 Deploy Streamlit demo online
-
-
-
-yaml
-Copy code
